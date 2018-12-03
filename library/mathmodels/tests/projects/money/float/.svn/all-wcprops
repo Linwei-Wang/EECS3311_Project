@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/sel-open/!svn/ver/73/mathmodels/tests/projects/money/float
+END
+num_array.e
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/sel-open/!svn/ver/73/mathmodels/tests/projects/money/float/num_array.e
+END
+integer_overflow.e
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/sel-open/!svn/ver/38/mathmodels/tests/projects/money/float/integer_overflow.e
+END
+money_array.e
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/sel-open/!svn/ver/73/mathmodels/tests/projects/money/float/money_array.e
+END

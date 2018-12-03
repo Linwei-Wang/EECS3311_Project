@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/sel-open/!svn/ver/38/mathmodels/tests/projects/money/tests
+END
+test_float1.e
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/sel-open/!svn/ver/38/mathmodels/tests/projects/money/tests/test_float1.e
+END
+test_float2.e
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/sel-open/!svn/ver/38/mathmodels/tests/projects/money/tests/test_float2.e
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/sel-open/!svn/ver/76/mathmodels/tests/basic/collections
+END
+test_rel.e
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/sel-open/!svn/ver/72/mathmodels/tests/basic/collections/test_rel.e
+END
+test_fun.e
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/sel-open/!svn/ver/75/mathmodels/tests/basic/collections/test_fun.e
+END
+test_seq.e
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/sel-open/!svn/ver/45/mathmodels/tests/basic/collections/test_seq.e
+END
+test_bag.e
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/sel-open/!svn/ver/38/mathmodels/tests/basic/collections/test_bag.e
+END
+test_set.e
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/sel-open/!svn/ver/76/mathmodels/tests/basic/collections/test_set.e
+END

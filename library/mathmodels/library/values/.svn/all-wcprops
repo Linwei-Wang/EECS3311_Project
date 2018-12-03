@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repos/sel-open/!svn/ver/69/mathmodels/library/values
+END
+value.e
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/sel-open/!svn/ver/69/mathmodels/library/values/value.e
+END
+float_comparer.e
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/sel-open/!svn/ver/38/mathmodels/library/values/float_comparer.e
+END
+value_singleton.e
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/sel-open/!svn/ver/38/mathmodels/library/values/value_singleton.e
+END
+float.e
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/sel-open/!svn/ver/38/mathmodels/library/values/float.e
+END

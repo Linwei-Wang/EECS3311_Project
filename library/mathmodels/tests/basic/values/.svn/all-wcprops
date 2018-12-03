@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/sel-open/!svn/ver/69/mathmodels/tests/basic/values
+END
+test_value1.e
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/sel-open/!svn/ver/69/mathmodels/tests/basic/values/test_value1.e
+END
+test_value2.e
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/sel-open/!svn/ver/38/mathmodels/tests/basic/values/test_value2.e
+END
+test_value2_a.e
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/sel-open/!svn/ver/38/mathmodels/tests/basic/values/test_value2_a.e
+END
+slow_value_tests.e
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/sel-open/!svn/ver/38/mathmodels/tests/basic/values/slow_value_tests.e
+END
+random_number.e
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/sel-open/!svn/ver/38/mathmodels/tests/basic/values/random_number.e
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/sel-open/!svn/ver/38/mathmodels/tests/projects/eHealth/tests
+END
+test_ehealth_system.e
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/sel-open/!svn/ver/38/mathmodels/tests/projects/eHealth/tests/test_ehealth_system.e
+END
+common_setup2.e
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/sel-open/!svn/ver/38/mathmodels/tests/projects/eHealth/tests/common_setup2.e
+END

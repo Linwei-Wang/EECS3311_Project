@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/repos/sel-open/!svn/ver/76/mathmodels/tests/basic
+END
+car.e
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/sel-open/!svn/ver/38/mathmodels/tests/basic/car.e
+END
+person.e
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/sel-open/!svn/ver/38/mathmodels/tests/basic/person.e
+END
+common_setup.e
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/sel-open/!svn/ver/38/mathmodels/tests/basic/common_setup.e
+END

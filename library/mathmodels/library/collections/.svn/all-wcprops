@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/sel-open/!svn/ver/76/mathmodels/library/collections
+END
+iterable_arithmetic.e
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/sel-open/!svn/ver/73/mathmodels/library/collections/iterable_arithmetic.e
+END
+rel.e
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/sel-open/!svn/ver/75/mathmodels/library/collections/rel.e
+END
+fun.e
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/sel-open/!svn/ver/75/mathmodels/library/collections/fun.e
+END
+seq.e
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/sel-open/!svn/ver/75/mathmodels/library/collections/seq.e
+END
+bag.e
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/sel-open/!svn/ver/75/mathmodels/library/collections/bag.e
+END
+pair.e
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/sel-open/!svn/ver/75/mathmodels/library/collections/pair.e
+END
+set.e
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/sel-open/!svn/ver/76/mathmodels/library/collections/set.e
+END

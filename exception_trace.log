@@ -1,0 +1,67 @@
+
+analyzer: system execution failed.
+Following is the set of recorded exceptions:
+
+******************************** Thread exception *****************************
+In thread           Root thread            0x0 (thread id)
+*******************************************************************************
+-------------------------------------------------------------------------------
+Class / Object      Routine                Nature of exception           Effect
+-------------------------------------------------------------------------------
+ARRAYED_LIST        put_i_th @3            index_small_enough:          
+<0000000005EDE2F8>                         Runtime check violated.       Fail
+-------------------------------------------------------------------------------
+ARRAYED_LIST        put_i_th @3                                         
+<0000000005EDE2F8>                         Routine failure.              Fail
+-------------------------------------------------------------------------------
+EXPRESSION_SET_ENUMERATION
+                    make_set_enumeration @2
+<0000000005EDE2D8>                         Routine failure.              Fail
+-------------------------------------------------------------------------------
+ANALYZER            make @7                                             
+<0000000005EDE108>                         Routine failure.              Fail
+-------------------------------------------------------------------------------
+ANALYZER_ACCESS     m @1                                                
+<0000000005EDE0E8>                         Routine failure.              Fail
+-------------------------------------------------------------------------------
+ANALYZER_ACCESS     _invariant @3                                       
+<0000000005EDE0E8>  (From ANALYZER_ACCESS) Class invariant violated.     Fail
+-------------------------------------------------------------------------------
+ANALYZER_ACCESS     _invariant                                          
+<0000000005EDE0E8>  (From ANALYZER_ACCESS) Routine failure.              Fail
+-------------------------------------------------------------------------------
+ANALYZER_ACCESS     m                                                   
+<0000000005EDE0E8>                         Routine failure.              Fail
+-------------------------------------------------------------------------------
+ETF_MODEL_FACADE    make @1                                             
+<0000000005EDE088>                         Routine failure.              Fail
+-------------------------------------------------------------------------------
+ETF_MAIN_WINDOW     user_create_interface_objects @1
+<0000000005ED07A8>                         Routine failure.              Fail
+-------------------------------------------------------------------------------
+ETF_MAIN_WINDOW     create_interface_objects @28
+<0000000005ED07A8>  (From ETF_MAIN_WINDOW_IMP)
+                                           Routine failure.              Fail
+-------------------------------------------------------------------------------
+ETF_MAIN_WINDOW     default_create @1                                   
+<0000000005ED07A8>  (From EV_ANY)          Routine failure.              Fail
+-------------------------------------------------------------------------------
+ETF_GUI             user_create_interface_objects @1
+<0000000005ED0768>                         Routine failure.              Fail
+-------------------------------------------------------------------------------
+ETF_GUI             create_interface_objects @1
+<0000000005ED0768>                         Routine failure.              Fail
+-------------------------------------------------------------------------------
+ETF_GUI             default_create @1                                   
+<0000000005ED0768>  (From EV_ANY)          Routine failure.              Fail
+-------------------------------------------------------------------------------
+ROOT                make @1                                             
+<0000000005ED05A8>  (From ETF_GUI_ROOT_INTERFACE)
+                                           Routine failure.              Fail
+-------------------------------------------------------------------------------
+ROOT                make @14                                            
+<0000000005ED05A8>                         Routine failure.              Rescue
+-------------------------------------------------------------------------------
+ROOT                root's creation                                     
+<0000000005ED05A8>                         Routine failure.              Exit
+-------------------------------------------------------------------------------
